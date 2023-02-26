@@ -1,4 +1,8 @@
 # Feedback_Analysis
+
+### Textblob
+Textblob is a python library for processing textual data. It provides a simple API for diving into common natural language processing (NLP) tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more.
+
 | Brand    | Negative Review Percentage | Number of Negative Reviews on Camera | Negative Review Percentage on Screen | Negative Review Percentage on Battery |
 |----------|---------------------------|--------------------------------------|-------------------------------------|--------------------------------------|
 | ASUS     | 13.64%                    | 4%                                   | 26.42%                              | 18.82%                               |
@@ -10,4 +14,3 @@
 | Samsung  | 17.24%                    | 24%                                   | 17.79%                              | 14.49%                               |
 | Sony     | 12.60%                    | 10%                                   | 7.64%                               | 7.46%                                |
 | Xiaomi   | 6.81%                     | 2%                                    | 5.14%                               | 3.72%                                |
-
