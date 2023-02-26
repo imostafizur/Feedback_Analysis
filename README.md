@@ -3,7 +3,7 @@
 ### Textblob
 Textblob is a python library for processing textual data. It provides a simple API for diving into common natural language processing (NLP) tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more.
 
-| Brand    | Negative Review Percentage | Number of Negative Reviews on Camera | Negative Review Percentage on Screen | Negative Review Percentage on Battery |
+| Brand    | Negative Review Percentage | Negative Reviews Percentage on Camera | Negative Review Percentage on Screen | Negative Review Percentage on Battery |
 |----------|---------------------------|--------------------------------------|-------------------------------------|--------------------------------------|
 | ASUS     | 13.64%                    | 4%                                   | 2.78%                              | 8.57%                               |
 | Apple    | 18.42%                    | 17.17%                               | 26.42%                             | 18.82%                              |
